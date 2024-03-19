@@ -1,0 +1,16 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -w -p ./",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
